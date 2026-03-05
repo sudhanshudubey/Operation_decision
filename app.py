@@ -14,7 +14,7 @@ st.set_page_config(page_title="Retail Analytics Dashboard", layout="wide")
 # -------------------------------------------------------------------------
 @st.cache_data
 def load_and_prep_data():
-    df = pd.read_csv('dataset.csv.zip')
+    df = pd.read_csv('dataset.csv')
     df['C520_DATE'] = pd.to_datetime(df['C520_DATE'])
     
     # Aggregate to daily level
