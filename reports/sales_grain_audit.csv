@@ -1,0 +1,189 @@
+product_id,raw_sales,distinct_record_sales,row_sum_multiplier,product
+82028,2934.0,978.0,3.0,Salanova Living Salads
+82031,381664.0,95416.0,4.0,Iceberg Lettuce
+82076,6406.0,3203.0,2.0,"Watercress, Spinach & Rocket Salad"
+82080,18981.0,6327.0,3.0,Salad Cress
+82084,12428.0,6214.0,2.0,Peppery Baby Leaf Salad
+82087,3362.0,3362.0,1.0,Duo Colour Gem Lettuce
+82110,109988.0,54994.0,2.0,Romaine Hearts
+82114,63489.0,21163.0,3.0,Salad Trio Lettuce
+82129,2303.0,2303.0,1.0,Mini Cosberg Lettuce
+82135,358896.0,59816.0,6.0,Wild Rocket
+82146,10366.0,10366.0,1.0,Ruby Romaine Hearts
+82150,121445.0,24289.0,5.0,Little Gem Lettuce
+82157,3014.0,1507.0,2.0,Mixed Baby Leaf Salad
+82160,333548.0,83387.0,4.0,Fresh Spinach
+82165,530.0,530.0,1.0,Baby Leaf & Herb Salad
+82175,77796.0,19449.0,4.0,Unwashed Spinach
+82181,1019142.0,113238.0,9.0,Aubergine
+82190,44979.0,14993.0,3.0,Baby Corn
+82204,19959.0,19959.0,1.0,Extra Fine Beans
+82209,157595.0,31519.0,5.0,Green Beans
+82214,324.0,162.0,2.0,Fine Beans
+82231,859104.0,286368.0,3.0,Cucumber
+82234,6269.0,6269.0,1.0,Red Jumbo Spring Onions
+82236,627342.0,104557.0,6.0,Spring Onions
+82241,88868.0,88868.0,1.0,Snack Cucumbears
+82261,25378.0,25378.0,1.0,Leeks
+82276,147192.0,36798.0,4.0,Radish Packed BBD 7D
+82297,120540.0,24108.0,5.0,Asparagus Tips 100g
+82302,11088.0,2772.0,4.0,Asparagus Bundle
+82307,49632.0,16544.0,3.0,Asparagus Green 250g
+82333,10644.0,2661.0,4.0,Root Vegetable Medley
+82345,62638.948,31319.474,2.0,Loose Courgettes
+82356,37205.0,7441.0,5.0,Mini Veg
+82381,153.0,153.0,1.0,Marvellous Tomatoes
+82385,2519.0,2519.0,1.0,Golden Blush Tomatoes
+82386,53640.0,26820.0,2.0,Valentina Tomatoes
+82387,25106.0,25106.0,1.0,Deluxe Marvellous Tomatoes
+82388,534.0,267.0,2.0,Cherry Vine Tomatoes
+82394,20623.0,20623.0,1.0,Deluxe Piccolo Tomatoes
+82400,2.0,1.0,2.0,Cherry Tomatoes
+82401,63225.0,63225.0,1.0,Cherry Tomatoes
+82410,203106.0,101553.0,2.0,Baby Plum Tomatoes
+82423,19373.0,19373.0,1.0,Tawny Tomatowls
+82439,17779.0,17779.0,1.0,Deluxe Scarlet Tomatoes
+82458,2960.0,2960.0,1.0,Golden Blush Tomatoes
+82465,99833.646,49916.823,2.0,Loose Vine Tomatoes
+82485,44643.0,44643.0,1.0,Tomatoes
+82488,233613.0,77871.0,3.0,Family Pack Tomatoes
+82507,15080.0,15080.0,1.0,Deluxe San Marzano Tomatoes
+82526,78890.0,7889.0,10.0,Loose Yellow Peppers
+82556,5844.0,5844.0,1.0,Sweet Mixed Peppers
+82557,77546.0,38773.0,2.0,Peppers Mixed 3 Pack
+82563,8312.0,8312.0,1.0,Padron Peppers
+82586,294318.0,98106.0,3.0,Mixed Peppers
+82591,1395.0,1395.0,1.0,Twin Pack Peppers.
+82594,1195.0,1195.0,1.0,Sweet Pointed Mixed Peppers
+82595,4604.0,4604.0,1.0,Pointed Mixed Peppers
+82616,1224320.0,76520.0,16.0,Loose Red Pepper
+82632,51664.0,25832.0,2.0,Sweet Pointed Peppers
+82669,27474.0,13737.0,2.0,Sweet Mini Peppers
+82676,32.0,16.0,2.0,Artichokes
+82680,5641.676,2820.838,2.0,Seasonal Squash
+82696,27.0,3.0,9.0,Large Pumpkin
+82697,1.0,1.0,1.0,Monster Pumpkin
+82700,15833.16,7916.58,2.0,Ginger Loose
+82706,31662.0,15831.0,2.0,Loose Garlic
+82711,224481.0,74827.0,3.0,Garlic
+82720,2453.228,1226.614,2.0,Celeriac Loose
+82728,0.0,0.0,,Butternut Squash/Sweet Potato Roast
+82761,229082.0,114541.0,2.0,Carrots
+82770,364.0,364.0,1.0,Monster Pumpkin
+82772,864.0,432.0,2.0,Munchkin Pumpkin
+82773,372.0,372.0,1.0,Medium Pumpkin
+82774,1177.0,1177.0,1.0,Large Pumpkins
+82779,2276.0,1138.0,2.0,Unicorn Carrots
+82781,5100.0,1700.0,3.0,Bunched Carrots
+82785,9264.0,3088.0,3.0,Chantenay Carrots
+82792,43812.0,14604.0,3.0,Parsnips
+82808,1809.0,1809.0,1.0,Baby Roasting Parsnips
+82809,49113.0,16371.0,3.0,Corn Cobettes
+82820,836.0,836.0,1.0,Raw Beetroot
+82825,49398.0,24699.0,2.0,Cooked Beetroot
+82828,10928.0,10928.0,1.0,Bunched Beetroot
+82833,26424.0,13212.0,2.0,Echalion Shallots
+82835,74849.072,18712.268,4.0,Butternut Squash
+82842,3870.0,1935.0,2.0,Marrow
+82846,116415.0,38805.0,3.0,Celery
+82850,14628.0,4876.0,3.0,Swede.
+82856,71385.0,14277.0,5.0,Loose Corn on the Cob
+82860,108260.0,21652.0,5.0,Fresh Corn on the Cob Twin Pack
+82876,85080.0,21270.0,4.0,Cauliflower
+82879,0.0,0.0,,Sweet Stemmed Cauliflower
+82881,153.0,51.0,3.0,Cauliflower Clouds
+82887,48732.0,16244.0,3.0,Cauliflower/Broccoli Floret
+82892,5076.0,1692.0,3.0,Mini Broccoli Trees
+82899,11019.0,3673.0,3.0,Tenderstem Broccoli
+82904,378672.0,94668.0,4.0,Broccoli
+82911,1146.0,1146.0,1.0,Chinese Leaf Lettuce
+82916,95412.0,31804.0,3.0,Curly Kale
+82917,633.0,211.0,3.0,Sliced Spring Greens
+82923,63564.0,15891.0,4.0,Pak Choi 2Pk
+82928,1366.0,683.0,2.0,Romanesaurus Rex
+82931,30843.0,10281.0,3.0,Brussels Sprouts
+82936,72.0,72.0,1.0,Santa Sprouts
+82940,1154.0,577.0,2.0,Brussels Sprouts Tree
+82944,1519.0,1519.0,1.0,Red/White Cabbage
+82945,13027.868,6513.934,2.0,Red Cabbage
+82951,26139.0,8713.0,3.0,Sweetheart Cabbage
+82952,286.0,143.0,2.0,Red Darling Sprout Stalks
+82955,92334.804,23083.701,4.0,Loose White Cabbage
+82961,36912.0,9228.0,4.0,Savoy Cabbage
+82963,19656.0,6552.0,3.0,Cavolo Nero
+82970,312.0,156.0,2.0,The Cabbage Patch
+82976,55544.0,13886.0,4.0,Purple Sprouting Broccoli
+82978,4704.0,2352.0,2.0,Kalettes
+83006,176252.0,44063.0,4.0,Chestnut Mushrooms
+83009,138801.0,46267.0,3.0,White Baby Button Mushrooms
+83016,230196.0,76732.0,3.0,Mushrooms
+83024,4808.0,1202.0,4.0,Sliced Mushrooms
+83030,96432.0,16072.0,6.0,Large Flat Mushrooms
+83053,6700.0,3350.0,2.0,Mini Portobello Mushrooms
+83076,30846.0,10282.0,3.0,Potted Basil
+83077,41190.0,20595.0,2.0,Fresh Cut Basil
+83078,1484.0,742.0,2.0,Fresh Cut Dill
+83087,336.0,112.0,3.0,Potted Coriander
+83097,47454.0,23727.0,2.0,Fresh Cut Parsley
+83098,17199.0,5733.0,3.0,Potted Curly Parsley
+83110,48560.0,24280.0,2.0,Fresh Cut Coriander
+83111,3453.0,1151.0,3.0,Fresh Cut Sage/Thyme
+83115,48171.0,16057.0,3.0,Fresh Cut Mint
+83120,4734.0,1578.0,3.0,Fresh Cut Rosemary
+83121,1101.0,1101.0,1.0,Fresh Cut Rosemary
+83132,143125.0,28625.0,5.0,Large Brown Onions
+83139,1191.0,397.0,3.0,Jersey Royal Potatoes
+83141,6471.0,2157.0,3.0,Deluxe Seasonal New Potatoes
+83161,7498.0,7498.0,1.0,Deluxe Jersey Royal New Potatoes
+83163,13902.0,6951.0,2.0,New Potatoes
+83164,23884.0,11942.0,2.0,Albert Bartlett Rooster Potatoes
+83181,7521.0,7521.0,1.0,Deluxe Alexandra Salad Potatoes
+83185,7173.0,7173.0,1.0,King Edward Potatoes
+83221,1791.0,597.0,3.0,Scotty Brand Baby Potatoes
+83222,84276.0,42138.0,2.0,Baby Potatoes
+83225,17624.0,8812.0,2.0,White Potatoes
+83234,1052.0,526.0,2.0,Supreme Salad Potatoes
+83245,133184.0,33296.0,4.0,White Potatoes 2.5kg
+83251,12746.0,12746.0,1.0,White Potatoes 7.5kg
+83255,23291.056,11645.528,2.0,Loose Baking Potatoes
+83273,15854.0,7927.0,2.0,Mini Roasting Potatoes
+83274,11339.0,11339.0,1.0,Yellow Potatoes
+83275,19206.0,9603.0,2.0,Red Potatoes
+83280,24088.0,24088.0,1.0,Maris Piper Potatoes
+83289,1064.0,1064.0,1.0,Albert Bartlett Jersey Royals
+83313,35550.0,17775.0,2.0,Deluxe Baking Potatoes
+83319,517.0,517.0,1.0,Baking Potaoes 6PK
+83320,711.0,711.0,1.0,Deluxe Baking Potatoes
+83321,588.0,588.0,1.0,Rooster Baking Potatoes
+83332,1056.0,1056.0,1.0,Brown Onions Plus 50% Extra Free
+83337,104.0,104.0,1.0,Sweet Onions
+83341,80.0,80.0,1.0,Naked Onions
+83347,33406.0,16703.0,2.0,Large Red Onions
+83351,170385.0,56795.0,3.0,Red Onions
+83358,2760.0,2760.0,1.0,Blushed Sweet Onions
+83360,858.0,429.0,2.0,Pink Onions
+83371,147786.0,73893.0,2.0,Onions
+83373,2244.0,2244.0,1.0,Sweet Onions
+83403,11230.0,5615.0,2.0,Stringless Beans
+83420,482.0,482.0,1.0,Fresh Cut Sage & Thyme
+83464,2646.0,1323.0,2.0,Flavoured Baby Beetroot
+83465,4204.0,4204.0,1.0,Celery Storks
+83466,5596.0,5596.0,1.0,Celery Storks
+83510,520.0,520.0,1.0,Courgetterpillar
+83520,3057.0,3057.0,1.0,Funsize Radfish
+83534,3885.0,3885.0,1.0,Mangetout
+83535,4298.0,4298.0,1.0,Sugar Snaps
+83553,287.0,287.0,1.0,Fresh Cut Dill
+83605,12764.0,6382.0,2.0,Pea Shoot Salad
+83662,21.0,21.0,1.0,Medium Ghost Pumpkin
+84528,1191.0,1191.0,1.0,Organic Spring Onions
+84532,59696.0,29848.0,2.0,Organic Spinach
+84535,62911.0,62911.0,1.0,Organic Cucumber
+84555,6928.0,6928.0,1.0,Organic Cherry Tomatoes
+84570,45768.0,22884.0,2.0,Organic Vine Tomatoes
+84587,1008.0,1008.0,1.0,Organic Mixed Peppers
+84591,22062.0,7354.0,3.0,Organic Mushrooms
+84610,130716.0,43572.0,3.0,Organic Carrots
+84640,116.0,116.0,1.0,Organic Cauliflower
+84645,46764.0,15588.0,3.0,Organic Broccoli
+84665,71752.0,35876.0,2.0,Organic Onions

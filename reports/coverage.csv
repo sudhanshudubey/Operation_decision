@@ -1,0 +1,11 @@
+product_id,product,calendar_days,observed_days,missing_days,test_calendar_days,test_scored_days
+82231,Cucumber,729,725,4,146,139
+82586,Mixed Peppers,729,478,251,146,0
+82160,Fresh Spinach,729,489,240,146,0
+82761,Carrots,729,724,5,146,139
+82181,Aubergine,729,725,4,146,139
+82904,Broccoli,729,721,8,146,128
+82236,Spring Onions,729,724,5,146,139
+82410,Baby Plum Tomatoes,729,722,7,146,139
+82031,Iceberg Lettuce,729,719,10,146,131
+83371,Onions,729,722,7,146,129

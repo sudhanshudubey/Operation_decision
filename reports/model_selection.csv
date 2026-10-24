@@ -1,0 +1,9 @@
+product_id,product,selected_model,baseline_model,validation_mae
+82231,Cucumber,Random Forest,Last week,58.358859430677796
+82761,Carrots,Random Forest,Last week,30.062429643845213
+82181,Aubergine,Random Forest,Yesterday,42.12249650032494
+82904,Broccoli,Random Forest,Yesterday,27.624089231542055
+82236,Spring Onions,Random Forest,Yesterday,34.30544277076244
+82410,Baby Plum Tomatoes,Random Forest,Last week,29.379244872094713
+82031,Iceberg Lettuce,Random Forest,Last week,29.44786397668848
+83371,Onions,Random Forest,Last week,25.58147371848808
