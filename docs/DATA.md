@@ -4,7 +4,7 @@
 
 The repository already contained `dataset.csv` and an identical compressed copy. The revised project retains the CSV as its sole input. It contains one store, 188 parent products, dates from 2017-12-26 to 2019-12-24, and 204,135 joined rows. The input SHA-256 is recorded in [the manifest](../reports/manifest.json).
 
-No original publisher, source URL, data dictionary, access agreement, collection method or redistribution permission was supplied. The folder name in the original notebook indicates coursework, but that does not establish ownership or permission. These fields remain **unverified**; no retailer or dataset publisher is guessed. Before sharing the dataset more broadly or using it commercially, obtain the source and permission record. The existing public file is preserved rather than silently relabeled as open data.
+The original publisher, source URL, data dictionary and redistribution permission are not documented in the repository. These details still need confirmation.
 
 ## Why the unit of observation matters
 
@@ -27,6 +27,6 @@ The default and original interpretations are both available in the dashboard. Sw
 - Recorded sales are treated as demand for the simulation. If historical stockouts constrained sales, true demand and lost sales are not identifiable here.
 - Units are the recorded `C520_SOLDPIECES` values. Parent pack sizes can differ; do not treat aggregate MAE or inventory costs across products as a comparable monetary business KPI.
 
-## Before claiming business impact
+## Information still needed
 
-Resolve the record grain with the source owner. Obtain the full product assortment calendar, store opening calendar, inventory/stockout history, promotion timing, observed delivery lead times, shelf lives, margins, costs and usage permissions. Actual business impact would then require prospective evaluation or a suitable controlled rollout; this repository does not provide that evidence.
+Confirm the sales-record definitions and obtain the assortment calendar, store opening days, stockout history, promotion timing, delivery lead times, shelf lives, costs and usage permissions. A newer evaluation period and a live trial would be needed to measure business impact.

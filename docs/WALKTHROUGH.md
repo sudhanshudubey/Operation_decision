@@ -1,27 +1,29 @@
-# Presenting the project in an interview
+# Project walkthrough
 
-## Explain the decision
+## The problem
 
-Start with the store decision: fresh produce needs enough stock to meet demand, but excess stock can expire. Forecast quality is useful only when you understand what the resulting order policy does. Explain the observed store-period and distinguish this historical experiment from a deployed replenishment system.
+A store needs enough fresh produce to meet demand, but extra stock can expire. The project compares sales forecasts and tests the stock policies they produce.
 
-## Show the evidence
+## 1. Check the data
 
-Open the Data audit tab first. Demonstrate how a one-to-many article mapping can repeat identical sales values. Explain why you kept distinct sales records and preserved the original interpretation as sensitivity. Be explicit that confirming this interpretation requires the original data dictionary.
+Open the Data audit tab. Some sales records repeat under several article codes. Compare the distinct-record totals with the original row sums. The original data dictionary is needed to confirm which interpretation is correct.
 
-In Forecast quality, explain a lag feature with an actual product example. Walk through the training, three validation windows and final test. Explain why last week is a stronger baseline for some products than yesterday. Show signed bias as well as MAE; Cucumber's positive bias is a useful example of a metric hiding an operational risk.
+Missing dates are kept as unknown observations. Products without enough data are listed as exclusions.
 
-In Inventory scenarios, follow a single delivery and batch expiration in the exported trace. Change shelf life or a cost assumption and explain why the preferred scenario may change. Compare measured fill rate with the buffer label. Explain why lower forecast error need not improve every inventory outcome.
+## 2. Compare forecasts
 
-Finish with a limitation you can investigate: the original sales grain, unknown stockouts, actual shelf life, or evaluation on a new period. A credible next experiment is more useful than claiming unmeasured savings.
+Choose a product in Forecast quality. Compare yesterday's sales, last week's sales and Random Forest predictions.
 
-## Be precise about your contribution
+The model is selected using three validation periods, then evaluated on the final test period. Check MAE and bias together: Cucumber has lower MAE but substantial overprediction. The charts show where errors occur.
 
-The original notebook references group coursework. Identify which original sections you personally completed, what your teammates contributed, and which portfolio extensions you have since understood and verified. Do not describe all group work as sole authorship. AI coding assistance was used for this refactor; be ready to explain and modify the code yourself.
+## 3. Follow the inventory
 
-## Claims the evidence can support
+Open Inventory scenarios and inspect a daily stock trace. Orders arrive after the selected lead time, older stock is used first, and expired units are counted as waste.
 
-- Implemented or contributed to chronological forecasting evaluation, data-quality auditing, and a Streamlit decision-support prototype—only for the parts you can explain and personally own.
-- Compared two simple baselines with a Random Forest across three validation windows and a disclosed final test.
-- Analyzed simulated inventory trade-offs under explicit lead-time, shelf-life and cost assumptions.
+Change shelf life or a cost assumption and compare fill rate, lost sales, waste and cost. The buffer percentile is a setting based on validation errors; achieved service is measured separately.
 
-Use the exact baseline, product, dates and interpretation when citing a forecasting number from [the report](../reports/RESULTS.md). Do not convert MAE reduction into "accuracy," claim real waste/cost reductions, imply a causal price effect, or describe a historical dashboard as a production deployment.
+## 4. Explain the limits
+
+The analysis covers one historical store-period. Shelf life and costs are assumptions, and recorded sales may understate demand when the store was out of stock. Price comparisons show association rather than a causal effect.
+
+The next steps are confirming the data definitions, obtaining actual inventory and cost information, and testing on a newer period. Refer to [the results report](../reports/RESULTS.md) for exact figures and dates.
